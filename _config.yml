@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ryan Zhang"
+title                    : "Ryan Zhang (张天然)"
 description              : "Focus on Vision-Language-Action Models and Reinforcement Learning in Robotics."
 repository               : "ryanzhangtianran/ryanzhangtianran.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ryan Zhang"
+  name             : "Ryan Zhang (张天然)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "HKUST(GZ)."
+  bio              : "HKUST(GZ)"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
