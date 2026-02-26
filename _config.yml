@@ -9,7 +9,7 @@
 title                    : "Ryan Zhang (张天然)"
 description              : "Focus on Vision-Language-Action Models and Reinforcement Learning in Robotics."
 repository               : "ryanzhangtianran/ryanzhangtianran.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
