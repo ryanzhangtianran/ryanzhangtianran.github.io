@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm Tianran Zhang (张天然), currently an MPhil student at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), supervised by [Prof. Haoang Li](https://sites.google.com/view/haoangli/homepage). Prior to this, I graduated from [Beihang University](https://www.buaa.edu.cn/) with a Bachelor of Science degree in Mechanical Engineering.
 
-My research interest includes Vision-Language-Action (VLA) models, Reinforcement Learning in robots and Manipulation. <a href='https://scholar.google.com/citations?user=yDpfuIAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+**I'm looking for a PhD candidate opportunity in Fall 2027.**
+
+My research interest includes **Vision-Language-Action (VLA) models**, **Reinforcement Learning in robots** and **Manipulation**. <a href='https://scholar.google.com/citations?user=yDpfuIAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 <!-- # 🔥 News
@@ -40,17 +42,16 @@ My research interest includes Vision-Language-Action (VLA) models, Reinforcement
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), Xiangbo Wang, **Tianran Zhang**, Bin Fang, et, al. **ICRA 2026**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), Xiangbo Wang, **Tianran Zhang**, Bin Fang, et, al. **arXiv Preprint**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), Xiangbo Wang, **Tianran Zhang**, Bin Fang, et, al. **ICRA 2024**
+- [SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting¶  ](https://github.com), Zhide Zhong, Haodong Yan, **Tianran Zhang**, Haoang Li, et, al. **ICRA 2026**
+- [FlowVLA: Visual chain of thought-based motion reasoning for Vision-Language-Action models](https://arxiv.org/abs/2508.18269), Zhide Zhong, Haodong Yan, Junfeng Li, Xiangchen Liu, Xin Gong, **Tianran Zhang**, Haoang Li, et, al. **arXiv Preprint**
+- [Bionic soft fingers with hybrid variable stiffness mechanisms for multimode grasping](https://ieeexplore.ieee.org/abstract/document/10611680), Xiangbo Wang, **Tianran Zhang**, Bin Fang, et, al. **ICRA 2024**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.7* National College Student Robot Competition (ROBOCON), **Third Place**.
 
 # 📖 Educations
-- *2015.06 - 2027.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2019.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.06 - 2027.06 (Expected)*, **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), Robotics and Autonomous Systems. 
+- *2019.09 - 2024.06*, **B.Eng**, Beihang University, School of Mechanic Engineer and Automation. 
 
 # 💻 Internships
 - *2024.09 - 2025.02*, [Zhipu](https://bigmodel.cn/), China.
