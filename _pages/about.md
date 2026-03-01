@@ -42,7 +42,7 @@ My research interest includes **Vision-Language-Action (VLA) models**, **Reinfor
 </div>
 </div> -->
 
-- [SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting¶  ](https://github.com), Zhide Zhong, Haodong Yan, **Tianran Zhang**, Haoang Li, et, al. **ICRA 2026**
+- [SVP: Improving Vision-Language-Action Models with Dual Stochastic Visual Prompting](https://github.com), Zhide Zhong, Haodong Yan, **Tianran Zhang**, Haoang Li, et, al. **ICRA 2026**
 - [FlowVLA: Visual chain of thought-based motion reasoning for Vision-Language-Action models](https://arxiv.org/abs/2508.18269), Zhide Zhong, Haodong Yan, Junfeng Li, Xiangchen Liu, Xin Gong, **Tianran Zhang**, Haoang Li, et, al. **arXiv Preprint**
 - [Bionic soft fingers with hybrid variable stiffness mechanisms for multimode grasping](https://ieeexplore.ieee.org/abstract/document/10611680), Xiangbo Wang, **Tianran Zhang**, Bin Fang, et, al. **ICRA 2024**
 
