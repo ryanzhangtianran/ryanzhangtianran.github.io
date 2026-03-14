@@ -1,0 +1,64 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "yDpfuIAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tianran Zhang",
+  "affiliation": "The Hong Kong University of Science and Technology (Guangzhou)",
+  "interests": [
+    "Manipulation",
+    "VLA",
+    "World Model"
+  ],
+  "email_domain": "@connect.hkust-gz.edu.cn",
+  "citedby": 33,
+  "publications": {
+    "yDpfuIAAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flowvla: Visual chain of thought-based motion reasoning for vision-language-action models",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 29,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11530280437679397253,16301810371705824134",
+      "cites_id": [
+        "11530280437679397253",
+        "16301810371705824134"
+      ]
+    },
+    "yDpfuIAAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bionic soft fingers with hybrid variable stiffness mechanisms for multimode grasping",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 4,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=621941469676608523",
+      "cites_id": [
+        "621941469676608523"
+      ]
+    }
+  },
+  "citedby5y": 33,
+  "hindex": 2,
+  "hindex5y": 2,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2024": 1,
+    "2025": 20,
+    "2026": 12
+  },
+  "updated": "2026-03-14 08:50:27.912900"
+}
