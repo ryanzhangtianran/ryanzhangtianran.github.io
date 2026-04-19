@@ -50,7 +50,7 @@ My research interest includes **Vision-Language-Action (VLA) models**, **Reinfor
 - *2024.7* National College Student Robot Competition (ROBOCON), **Third Place**.
 
 # 📖 Educations
-- *2015.06 - 2027.06 (Expected)*, **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), Robotics and Autonomous Systems. 
+- *2025.06 - 2027.06 (Expected)*, **MPhil**, The Hong Kong University of Science and Technology (Guangzhou), Robotics and Autonomous Systems. 
 - *2019.09 - 2024.06*, **B.Eng**, Beihang University, School of Mechanic Engineer and Automation. 
 
 # 💻 Internships
