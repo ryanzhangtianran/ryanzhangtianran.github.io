@@ -1,0 +1,116 @@
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "yDpfuIAAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Tianran Zhang",
+  "affiliation": "The Hong Kong University of Science and Technology (Guangzhou)",
+  "interests": [
+    "Manipulation",
+    "VLA",
+    "World Model"
+  ],
+  "email_domain": "@connect.hkust-gz.edu.cn",
+  "citedby": 84,
+  "publications": {
+    "yDpfuIAAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Flowvla: Visual chain of thought-based motion reasoning for vision-language-action models",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 67,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16301810371705824134,11530280437679397253",
+      "cites_id": [
+        "16301810371705824134",
+        "11530280437679397253"
+      ]
+    },
+    "yDpfuIAAAAAJ:9yKSN-GCB0IC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Vla-opd: Bridging offline sft and online rl for vision-language-action models via on-policy distillation",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:9yKSN-GCB0IC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6933241226364688267",
+      "cites_id": [
+        "6933241226364688267"
+      ]
+    },
+    "yDpfuIAAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Bionic soft fingers with hybrid variable stiffness mechanisms for multimode grasping",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=621941469676608523",
+      "cites_id": [
+        "621941469676608523"
+      ]
+    },
+    "yDpfuIAAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Is Forward Prediction Enough? Physical State Grounding for JEPA World Models",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:qjMakFHDy7sC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2776092528827373893",
+      "cites_id": [
+        "2776092528827373893"
+      ]
+    },
+    "yDpfuIAAAAAJ:2osOgNQ5qMEC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "SG-WAM: Text-Grounded and Spatial-aware Semantic Guidance for World-Action Models",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:2osOgNQ5qMEC",
+      "num_citations": 0
+    },
+    "yDpfuIAAAAAJ:UeHWp8X0CEIC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+        "pub_year": "2026"
+      },
+      "filled": false,
+      "author_pub_id": "yDpfuIAAAAAJ:UeHWp8X0CEIC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 84,
+  "hindex": 3,
+  "hindex5y": 3,
+  "i10index": 1,
+  "i10index5y": 1,
+  "cites_per_year": {
+    "2024": 1,
+    "2025": 13,
+    "2026": 70
+  },
+  "updated": "2026-09-06 12:06:31.610014"
+}
