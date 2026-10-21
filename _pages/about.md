@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Tianran Zhang (张天然), currently an MPhil student in the ROAS Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), advised by [Prof. Haoang Li](https://sites.google.com/view/haoangli/homepage). Prior to this, I received my Bachelor's degree in Mechanical Engineering from [Beihang University](https://www.buaa.edu.cn/). <a href='https://scholar.google.com/citations?user=yDpfuIAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I'm Tianran Zhang (张天然), currently an MPhil student in the ROAS Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), advised by [Prof. Haoang Li](https://sites.google.com/view/haoangli/homepage). Prior to this, I received my Bachelor's degree in Mechanical Engineering from [Beihang University](https://www.buaa.edu.cn/).
 
 **I'm looking for a PhD position starting in Fall 2027.**
 
@@ -27,7 +27,7 @@ Email: [ryanzhangtianran@gmail.com](mailto:ryanzhangtianran@gmail.com)
 
 # 📝 Selected Publications
 
-For full publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=yDpfuIAAAAAJ).
+For full publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=yDpfuIAAAAAJ). <a href='https://scholar.google.com/citations?user=yDpfuIAAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/safeloop.png' alt="SafeLoop"></div></div>
 <div class='paper-box-text' markdown="1">
