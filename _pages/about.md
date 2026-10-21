@@ -27,7 +27,7 @@ Email: ryanzhangtianran [AT] gmail.com
 
 # 📝 Selected Publications
 
-- For full publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=yDpfuIAAAAAJ).
+For full publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=yDpfuIAAAAAJ).
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2026</div><img src='images/safeloop.png' alt="SafeLoop"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,14 +65,14 @@ Zhide Zhong, Haodong Yan, Junfeng Li, Junjie He, **Tianran Zhang**, Haoang Li, e
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/flowvla.png' alt="FlowVLA"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-RO 2026</div><img src='images/flowvla.png' alt="FlowVLA"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[FlowVLA: Visual Chain of Thought-based Motion Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2508.18269)**
 
 Zhide Zhong, Haodong Yan, Junfeng Li, Xiangchen Liu, Xin Gong, **Tianran Zhang**, Haoang Li, et al.
 
-*arXiv preprint, 2025*
+*IEEE Transactions on Robotics (T-RO), 2026*
 
 </div>
 </div>
