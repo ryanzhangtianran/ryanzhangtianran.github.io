@@ -12,8 +12,13 @@ if not scholar_id:
 print("正在配置代理网络 (这可能需要几十秒来寻找可用的免费代理)...")
 # 2. 设置代理以绕过 Google 的反爬虫限制
 pg = ProxyGenerator()
-# 调用你之前安装的 free-proxy
-success = pg.FreeProxies() 
+socks_proxy = os.environ.get('SOCKS_PROXY')
+if socks_proxy:
+    # 走 VPS 的 SSH 隧道
+    success = pg.SingleProxy(http=socks_proxy, https=socks_proxy)
+else:
+    # 调用你之前安装的 free-proxy
+    success = pg.FreeProxies()
 if not success:
     print("⚠️ 警告: 无法获取有效的免费代理，尝试直连...")
 else:
