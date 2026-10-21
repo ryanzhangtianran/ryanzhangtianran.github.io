@@ -23,7 +23,7 @@ I'm Tianran Zhang (张天然), currently an MPhil student in the ROAS Thrust at 
 
 Focus: **Vision-Language-Action (VLA) models**, **Reinforcement Learning for robots** and **Manipulation**.
 
-Email: ryanzhangtianran [AT] gmail.com
+Email: [ryanzhangtianran@gmail.com](mailto:ryanzhangtianran@gmail.com)
 
 # 📝 Selected Publications
 
@@ -97,4 +97,5 @@ Xiangbo Wang, **Tianran Zhang**, Hongze Yu, Zhenwei Wen, Lide Fang, Huaping Liu,
 - *2019.09 - 2024.06*, **B.Eng**, Beihang University, School of Mechanical Engineering and Automation.
 
 # 💻 Internships
+- *2026.09 - Present*, **Algorithm Intern**, Ola Dimensions, Shenzhen, China.
 - *2024.09 - 2025.02*, **Algorithm Intern**, [Zhipu AI](https://bigmodel.cn/), China.
