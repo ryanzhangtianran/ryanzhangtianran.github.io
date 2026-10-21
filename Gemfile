@@ -23,5 +23,12 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
 end
+
+# removed from Ruby's default gems in 3.x/4.x, needed by Jekyll 3
+gem "webrick"
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
+

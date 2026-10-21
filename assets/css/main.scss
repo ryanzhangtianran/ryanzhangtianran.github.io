@@ -55,10 +55,15 @@
         display: flex;
         width: 100%;
         order: 2;
+        > div { width: 100%; max-width: 400px; }
+        // same frame for every figure so all cards line up
         img {
-            max-width: 400px;
+            display: block;
+            width: 100%;
+            aspect-ratio: 16 / 9;
             box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
+            object-fit: contain;
+            background: #fff;
         }
     }
     
@@ -70,15 +75,15 @@
     @include breakpoint($medium) {
         .paper-box-image{
             justify-content: left;
+            flex: 0 0 40%;
             min-width: 200px;
-            max-width: 40%;
             order: 1;
         }
         
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 60%;
+            flex: 1;
             order: 2;
         }
 
