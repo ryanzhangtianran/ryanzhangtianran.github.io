@@ -1,3 +1,5 @@
 jsonpickle==1.4.2
 scholarly==1.5.1
 free-proxy==1.0.6
+# scholarly 1.5.1 uses the bibtexparser 1.x API (bibdatabase), removed in 2.x
+bibtexparser<2
