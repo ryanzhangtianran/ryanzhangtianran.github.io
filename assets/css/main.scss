@@ -56,14 +56,13 @@
         width: 100%;
         order: 2;
         > div { width: 100%; max-width: 400px; }
-        // same frame for every figure so all cards line up
+        // same width for every figure, height follows the figure so the frame stays tight
         img {
             display: block;
             width: 100%;
-            aspect-ratio: 16 / 9;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: contain;
+            padding: .4em;
             background: #fff;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, .25);
         }
     }
     
@@ -103,12 +102,12 @@ h1:before, .anchor:before {
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding: .15em 1em;
     position: absolute;
-    margin-top: .5em;
+    margin-top: .8em;
     margin-left: -.5em;
     color: white;
     background-color: #00369f;
-    font-size: .8em;
+    font-size: .9em;
+    font-weight: bold;
 }

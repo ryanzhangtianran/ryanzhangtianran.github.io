@@ -97,4 +97,4 @@ Xiangbo Wang, **Tianran Zhang**, Hongze Yu, Zhenwei Wen, Lide Fang, Huaping Liu,
 - *2019.09 - 2024.06*, **B.Eng**, Beihang University, School of Mechanical Engineering and Automation.
 
 # 💻 Internships
-- *2024.09 - 2025.02*, [Zhipu](https://bigmodel.cn/), China.
+- *2024.09 - 2025.02*, **Algorithm Intern**, [Zhipu AI](https://bigmodel.cn/), China.
