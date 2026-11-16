@@ -12,9 +12,7 @@ redirect_from:
 
 I'm Tianran Zhang (张天然), currently an MPhil student in the ROAS Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), advised by [Prof. Haoang Li](https://sites.google.com/view/haoangli/homepage). Prior to this, I received my Bachelor's degree in Mechanical Engineering from [Beihang University](https://www.buaa.edu.cn/).
 
-**I'm looking for a PhD position starting in Fall 2027.**
-
-Focus: **Vision-Language-Action (VLA) models**, **Reinforcement Learning for robots** and **Manipulation**.
+Focus: **model-based robotic manipulation**, **reinforcement learning for robots**, and **data augmentation and sim-to-real transfer for manipulation**.
 
 Email: [ryanzhangtianran@gmail.com](mailto:ryanzhangtianran@gmail.com)
 
