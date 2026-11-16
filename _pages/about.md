@@ -12,7 +12,7 @@ redirect_from:
 
 I'm Tianran Zhang (张天然), currently an MPhil student in the ROAS Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/), advised by [Prof. Haoang Li](https://sites.google.com/view/haoangli/homepage). Prior to this, I received my Bachelor's degree in Mechanical Engineering from [Beihang University](https://www.buaa.edu.cn/).
 
-Focus: **Model-Based Manipulation**, **Reinforcement Learning for robots** and **Data Augmentation and Sim-to-Real Transfer for manipulation**.
+Focus: **Model-Based manipulation**, **Reinforcement Learning for robots** and **Data Augmentation & Sim2Real for manipulation**.
 
 Email: [ryanzhangtianran@gmail.com](mailto:ryanzhangtianran@gmail.com)
 
