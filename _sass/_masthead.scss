@@ -19,6 +19,10 @@
     padding: .5em;
     font-family: $sans-serif-narrow;
 
+    @include breakpoint($large) {
+      padding-left: 3em;  // match #main so the nav lines up with the sidebar
+    }
+
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
